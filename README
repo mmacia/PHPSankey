@@ -1,0 +1,9 @@
+This is a class to draw Sankey diagrams
+http://en.wikipedia.org/wiki/Sankey_diagram
+
+In order to work, you need a PHP installation with 
+the Imagick library installed.
+
+You can see an usage example in src/main.php file
+and an output sample in samples directory.
+
